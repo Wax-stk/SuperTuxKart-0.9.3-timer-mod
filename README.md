@@ -7,7 +7,6 @@
 
 # Speedrun
 https://www.speedrun.com/stk#0.9.3
-Look at rules
 
 # Installation
 Look at install.md
