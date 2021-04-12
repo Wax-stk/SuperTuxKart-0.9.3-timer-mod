@@ -7,17 +7,6 @@ mesa-common-dev pkg-config zlib1g-dev
 <br>
 <br> Note : On debian, you may need to use su instead of sudo if sudo is not installed.
 
-
-Fedora
-<br> sudo dnf install @development-tools angelscript-devel \
-bluez-libs-devel cmake desktop-file-utils SDL2-devel \
-freealut-devel freetype-devel \
-gcc-c++ git-core libcurl-devel libjpeg-turbo-devel \
-libpng-devel libsquish-devel libtool libvorbis-devel \
-openal-soft-devel openssl-devel libcurl-devel harfbuzz-devel \
-libogg-devel openssl-devel pkgconf \
-wiiuse-devel zlib-devel
-
 Arch
 <br> coming soon
 
