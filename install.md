@@ -11,7 +11,9 @@ Arch
 <br> coming soon
 
 # Download
-Download source code and data there https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3.zip
+Download source code and data there 
+<br> if you use arch : https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3-arch.zip
+<br> if you use debian or ubuntu : https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3-ubuntu.zip
 
 # Extract
 unzip 0.9.3.zip -d 0.9.3
