@@ -11,11 +11,12 @@ Arch
 <br> sudo pacman -S cmake git
 
 # Download
-<br> if you use arch : wget https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3-arch.zip
-<br> if you use debian or ubuntu : wget https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3-ubuntu.zip
+<br> if you use Arch : wget https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3-arch.zip
+<br> if you use Debian or Ubuntu : wget https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/093-1/0.9.3-ubuntu.zip
 
 # Extract
-unzip 0.9.3.zip -d 0.9.3
+Arch : unzip 0.9.3-arch.zip -d 0.9.3
+Debian/Ubuntu : unzip 0.9.3-ubuntu.zip -d 0.9.3
 
 # Build
 cd 0.9.3
