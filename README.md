@@ -24,5 +24,6 @@ The software is released under the GNU General Public License (GPL) which can be
     If you want splits, look at https://github.com/LiveSplit/LiveSplitOne
 
 # Issues
-Contact me on Discord : JeanD#2660
+Report them in Github issues or
+contact me on Discord : JeanD#2660
 or on Matrix : @wax-stk:matrix.org
