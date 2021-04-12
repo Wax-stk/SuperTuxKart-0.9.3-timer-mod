@@ -1,6 +1,6 @@
 # SuperTuxKart-0.9.3-timer-mod
 # == SuperTuxKart 0.9.3 with timer mod ==
-<br> Work-in-progress. Should work on Arch Linux but not on Ubuntu.
+<br> Work-in-progress. Should work on Arch Linux, Debian and Ubuntu.
 <br> This is a mod specific to speedrunning on 0.9.3. To install lastest SuperTuxKart version : https://github.com/supertuxkart/stk-code
 <br> Here is a fixed code and a new install.md.
 <br> This is forked from https://github.com/Fouks0/stk-code which is forked from https://github.com/supertuxkart/stk-code
