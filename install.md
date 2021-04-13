@@ -34,6 +34,13 @@ cd 0.9.3
 <br> cmake .. -DUSE_GLES2=1 -DBUILD_RECORDER=0 -DUSE_FRIBIDI=0
 <br> make -jNumberOfThreadsOfYourCpu (eg if 8 threads : make -j8)
 
+# Patch
+cd
+<br> mv /0.9.3/src/ /0.9.3/stk-code/src
+<br> mv 0.9.3/"options_ui.stkgui" 0.9.3/data/gui/ 0.9.3/stk-assets/gui/
+<br> cd /0.9.3/stk-code/cmake_build
+<br> make -jx (Look at build)
+
 # Install
 sudo make install
 
