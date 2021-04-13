@@ -34,8 +34,8 @@ cd 0.9.3
 
 # Patch
 cd
-<br> mv /0.9.3/src/ /0.9.3/stk-code/src
-<br> mv 0.9.3/"options_ui.stkgui" 0.9.3/data/gui/ 0.9.3/stk-assets/gui/
+<br> mv -f /home/yourusername/0.9.3/0.9.3/src* /home/yourusername/0.9.3/0.9.3/stk-code/src/
+<br> mv 0.9.3/0.9.3/"options_ui.stkgui" 0.9.3/0.9.3/stk-code/data/gui/
 <br> cd /0.9.3/stk-code/cmake_build
 <br> make -jx (Look at build)
 
