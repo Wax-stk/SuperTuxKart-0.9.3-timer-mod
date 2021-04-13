@@ -1,6 +1,6 @@
 # SuperTuxKart-0.9.3-timer-mod
 # == SuperTuxKart 0.9.3 with timer mod ==
-<br> Work-in-progress. Doesn't work for now.
+<br> Should work but untested for now.
 <br> This is a mod specific to speedrunning on 0.9.3. To install lastest SuperTuxKart version : https://github.com/supertuxkart/stk-code
 <br> Here is a fixed code and a new install.md.
 <br> This is forked from https://github.com/Fouks0/stk-code which is forked from https://github.com/supertuxkart/stk-code
@@ -9,7 +9,7 @@
 https://www.speedrun.com/stk#0.9.3
 
 # Installation
-Look at install.md
+<a href="https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/blob/main/install.md">
 
 # License 
 The software is released under the GNU General Public License (GPL) which can be found in the file COPYING in the same directory as this file. Information about the licenses for the artwork is contained in data/licenses.
