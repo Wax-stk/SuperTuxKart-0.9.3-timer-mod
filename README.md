@@ -4,6 +4,7 @@
 <br> This is a mod specific to speedrunning on 0.9.3. To install lastest SuperTuxKart version : https://github.com/supertuxkart/stk-code
 <br> Here is a fixed code and a new install.md.
 <br> This is forked from https://github.com/Fouks0/stk-code which is forked from https://github.com/supertuxkart/stk-code
+This exists thanks to Alayan and Fouks
 
 # Speedrun
 https://www.speedrun.com/stk#0.9.3
