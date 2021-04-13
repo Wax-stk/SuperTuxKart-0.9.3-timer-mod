@@ -26,7 +26,7 @@ unzip 0.9.3.zip -d 0.9.3
 # Build
 cd 0.9.3
 <br> cd 0.9.3
-<br> cd <br> cd stk-code
+<br> cd stk-code
 <br> mkdir cmake_build
 <br> cd cmake_build
 <br> cmake .. -DUSE_GLES2=1 -DBUILD_RECORDER=0 -DUSE_FRIBIDI=0
