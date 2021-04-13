@@ -36,7 +36,10 @@ cd 0.9.3
 cd
 <br> mv -f /home/yourusername/0.9.3/0.9.3/src* /home/yourusername/0.9.3/0.9.3/stk-code/src/
 <br> mv 0.9.3/0.9.3/"options_ui.stkgui" 0.9.3/0.9.3/stk-code/data/gui/
-<br> cd /0.9.3/stk-code/cmake_build
+<br> cd 0.9.3
+<br> cd 0.9.3
+<br> cd stk-code
+<br> cd cmake_build
 <br> make -jx (Look at build)
 
 # Install
