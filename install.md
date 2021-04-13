@@ -3,7 +3,7 @@ Open your terminal emulator.
 # Get dependencies
 **Debian-based distros (Debian, antix, MX Linux, Ubuntu and flavours, Mint, elementary, Pop! OS, deepin, KDE neon, Zorin...)**
 <br> sudo apt-get install build-essential cmake libbluetooth-dev libcurl4-gnutls-dev libfreetype6-dev libfribidi-dev libgl1-mesa-dev libjpeg-dev libogg-dev libopenal-dev libpng-dev libvorbis-dev libxrandr-dev mesa-common-dev pkg-config zlib1g-dev git unzip wget
-<br> Note : On debian, you may need to use su instead of sudo if sudo is not installed.
+<br> **Note** : On debian, you may need to use su instead of sudo if sudo is not installed.
 
 **Arch-based distros  (Arch, Manjaro, ArcoLinux, Garuda...)**
 <br> sudo pacman -S cmake make gcc git subversion openal libogg libvorbis freetype2 harfbuzz curl bluez openssl libpng zlib libjpeg-turbo sdl2 unzip wget
