@@ -9,7 +9,7 @@
 https://www.speedrun.com/stk#0.9.3
 
 # Installation
-<a href="https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/blob/main/install.md">
+<a href="https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/blob/main/install.md">INSTALL.md</a>
 
 # License 
 The software is released under the GNU General Public License (GPL) which can be found in the file COPYING in the same directory as this file. Information about the licenses for the artwork is contained in data/licenses.
