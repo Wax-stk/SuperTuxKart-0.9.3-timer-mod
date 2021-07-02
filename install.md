@@ -17,6 +17,12 @@ Open your terminal emulator.
 **OpenSUSE**
 <br> sudo zypper install gcc-c++ cmake openssl-devel libcurl-devel libSDL2-devel freetype-devel harfbuzz-devel libogg-devel openal-soft-devel libpng-devel  libvorbis-devel pkgconf zlib-devel enet-devel libjpeg-devel bluez-devel freetype2-devel unzip wget
 
+**Solus [Untested]**
+<br> sudo eopkg install openal-soft-devel libogg-devel libvorbis-devel freetype2-devel harfbuzz-devel curl-devel bluez-devel openssl-devel libpng-devel zlib-devel libjpeg-turbo-devel sdl2-devel cmake gcc g++ make git subversion
+<br> sudo eopkg install -c system.devel
+<br> sudo gedit #OrYourFavoriteTextEditorLikeNanoVimKate.. /usr/include/SDL2/SDL_syswm.h
+<br> Remove, in the following order, lines 69 to 71 [#include <X11/Xlib.h> and the two lines following] , 160 [XEvent event;], 235 [Display *display;], 236 [Window window;]
+
 # Download
 wget https://github.com/Wax-stk/SuperTuxKart-0.9.3-timer-mod/releases/download/0.9.3-2/0.9.3.zip
 
